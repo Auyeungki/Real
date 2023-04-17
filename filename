@@ -1,0 +1,103 @@
+{
+  "groups" : [
+    {
+      "name" : "Home",
+      "path" : "home",
+      "scriptCommands" : [
+
+      ],
+      "subGroups" : [
+        {
+          "name" : "Elgato",
+          "path" : "elgato",
+          "scriptCommands" : [
+            {
+              "authors" : [
+                {
+                  "name" : "Thomas Paul Mann",
+                  "url" : "https:\/\/github.com\/thomaspaulmann"
+                }
+              ],
+              "createdAt" : "2021-02-04T18:14:11+00:00",
+              "currentDirectoryPath" : null,
+              "description" : "Increase brightness of Elgato Key Light by 5%.",
+              "filename" : "elgato-key-light-increase-brightness.template.rb",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/elgato.png"
+              },
+              "identifier" : "1a5ced3b0eed17feb59e06d3b82a3235",
+              "isTemplate" : true,
+              "language" : "ruby",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Elgato Key Light",
+              "path" : "home\/elgato\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Increase Brightness",
+              "updatedAt" : "2021-02-04T18:14:11+00:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Thomas Paul Mann",
+                  "url" : "https:\/\/github.com\/thomaspaulmann"
+                }
+              ],
+              "createdAt" : "2021-02-04T18:14:11+00:00",
+              "currentDirectoryPath" : null,
+              "description" : "Turn on Elgato Key Light.",
+              "filename" : "elgato-key-light-turn-on.template.rb",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/elgato.png"
+              },
+              "identifier" : "7a42a1bde2de4c6d198d04a2f527ea4a",
+              "isTemplate" : true,
+              "language" : "ruby",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Elgato Key Light",
+              "path" : "home\/elgato\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Turn On",
+              "updatedAt" : "2021-02-04T18:14:11+00:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Thomas Paul Mann",
+                  "url" : "https:\/\/github.com\/thomaspaulmann"
+                }
+              ],
+              "createdAt" : "2021-02-04T18:14:11+00:00",
+              "currentDirectoryPath" : null,
+              "description" : "Turn off Elgato Key Light.",
+              "filename" : "elgato-key-light-turn-off.template.rb",
+              "hasArguments" : false,
+              "icon" : {
+                "dark" : null,
+                "light" : "images\/elgato.png"
+              },
+              "identifier" : "ae1a70aec03ee5e74c3b504ab0bd5873",
+              "isTemplate" : true,
+              "language" : "ruby",
+              "mode" : "silent",
+              "needsConfirmation" : null,
+              "packageName" : "Elgato Key Light",
+              "path" : "home\/elgato\/",
+              "refreshTime" : null,
+              "schemaVersion" : 1,
+              "title" : "Turn Off",
+              "updatedAt" : "2021-02-04T18:14:11+00:00"
+            },
+            {
+              "authors" : [
+                {
+                  "name" : "Thomas Paul Mann",
+                  "url" : "https:\/\/github.com\/thomaspaulmann"
+                }
